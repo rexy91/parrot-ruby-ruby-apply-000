@@ -1,4 +1,4 @@
-def parror(a='Squawk!')
+def parrot(a='Squawk!')
   puts a
   return a
 end
